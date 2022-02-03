@@ -6,11 +6,11 @@ I'm a junior full-stack web developer. I'm steal new to the world of Programming
 
 ## Tech Stack
 
-**Client:** React.js,Js,Css,HTML,Next.js
+**Client:** React.js,Js,Css,HTML,Next.js,React Native
 
-**Server:** Node, Express
+**Server:** Node, Express,Python,
 
-**Database:** MongoDb,Firebase
+**Database:** MongoDb,Firebase,MySQL
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-yy.herokuapp.com/ )
