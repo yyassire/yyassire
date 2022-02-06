@@ -1,5 +1,5 @@
 
-![I'm a Web developer]()
+![I'm a Web developer](![code-g7ced5591b_1920](https://user-images.githubusercontent.com/83545092/152705601-b47bbcf4-f610-425d-9b62-f88985b377db.jpg))
 
 # Yassire Yaguibou
 I'm a junior full-stack web developer. I'm steal new to the world of Programming but have a consistant desire for learning and sharpning my skills.I consider myself a quick learner and a persistent person who does not shy away from responsibilities.I always keep myself up to date with new tecknologies
