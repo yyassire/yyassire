@@ -13,6 +13,7 @@ I'm a junior full-stack web developer. I'm steal new to the world of Programming
 **Database:** MongoDb,Firebase,MySQL
 
 ## 🔗 Links
-[![portfolio](https://n-portfolio-nine.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://n-portfolio-nine.vercel.app/ )
+
 
 
