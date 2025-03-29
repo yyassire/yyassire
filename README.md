@@ -19,7 +19,6 @@ implementing new features based on user feedback
 **Database:** MongoDb,Firebase,MySQL,Postgresql
 
 ## 🔗 Links
-[![portfolio](https://portfolio2025-amber.vercel.app/ )
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://n-portfolio-nine.vercel.app/ )
 
 
